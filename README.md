@@ -1,10 +1,22 @@
-### Hi there 👋
+##  ✨ Hello world! ✨
 
-<!--
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+I'm Carmen Mattos, passionate about learning and curious to understand how things work!
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="carmencmattos" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/carmencmattos?trk=profile-badge">Carmen Mattos</a></div>
-              
--->
 
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://br.linkedin.com/in/carmencmattos?trk=profile-badge)
+🎓 Currently studying Software Analysis and Development;
+
+💻 Luiza Code fifth edition; 
+
+🔎 Looking for opportunities in Technology;
+
+💊 Pharmacist in career transition;
+
+🏥 6 years of professional experience as a hospital Pharmacist;
+
+💙 Pets 🐾 Music 🎵 TV Shows 📺 Movies 🎬 Books 📚
+
+
+
+<!-- https://platform.linkedin.com/badges/js/profile.js -->
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/carmencmattos?trk=profile-badge)
