@@ -1,21 +1,21 @@
 ##  ✨ Hello world! ✨
 
 I'm Carmen Mattos, passionate about learning and curious to understand how things work!
-
-
+<br>
+<br>
 🎓 Currently studying Software Analysis and Development;
-
+<br>
 💻 Luiza Code fifth edition; 
-
+<br>
 🔎 Looking for opportunities in Technology;
-
+<br>
 💊 Pharmacist in career transition;
-
+<br>
 🏥 6 years of professional experience as a hospital Pharmacist;
-
+<br>
 💙 Pets 🐾 Music 🎵 TV Shows 📺 Movies 🎬 Books 📚
-
-
+<br>
+<br>
 
 <!-- https://platform.linkedin.com/badges/js/profile.js -->
 
