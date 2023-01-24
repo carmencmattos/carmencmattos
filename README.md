@@ -5,7 +5,9 @@ I'm Carmen Mattos, passionate about learning and curious to understand how thing
 <br>
 🎓 Currently studying Software Analysis and Development;
 <br>
-💻 Luiza Code fifth edition; 
+☑ Luiza Code fifth edition; 
+<br>
+💻 Desenvolve 2023 - gb.tech;
 <br>
 🔎 Looking for opportunities in Technology;
 <br>
