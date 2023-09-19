@@ -3,19 +3,14 @@
 I'm Carmen Mattos, passionate about learning and curious to understand how things work!
 <br>
 <br>
-🎓 Currently studying Software Analysis and Development;
-<br>
-☑ Luiza Code fifth edition; 
+💻 Software Developer => React | Javascript | Typescript | AWS;
 <br>
 💻 Desenvolve 2023 - gb.tech;
 <br>
-🔎 Looking for opportunities in Technology;
+💻 Luiza Code fifth edition; 
 <br>
-💊 Pharmacist in career transition;
-<br>
-🏥 6 years of professional experience as a hospital Pharmacist;
-<br>
-💙 Pets 🐾 Music 🎵 TV Shows 📺 Movies 🎬 Books 📚
+💻 I made a career transition from healthcare to technology! 💊
+
 <br>
 <br>
 
