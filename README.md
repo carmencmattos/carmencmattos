@@ -3,11 +3,11 @@
 I'm Carmen Mattos, passionate about learning and curious to understand how things work!
 <br>
 <br>
-💻 Software Developer => React | Javascript | Typescript | AWS;
+💻 Software Developer 
 <br>
-💻 Desenvolve 2023 - gb.tech;
+💻 Desenvolve 2023 - gb.tech
 <br>
-💻 Luiza Code fifth edition; 
+💻 Luiza Code fifth edition
 <br>
 💻 I made a career transition from healthcare to technology! 💊
 
